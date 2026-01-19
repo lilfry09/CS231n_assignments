@@ -1,0 +1,6 @@
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
+**/cs231n/datasets/
+**/build/
+.DS_Store
